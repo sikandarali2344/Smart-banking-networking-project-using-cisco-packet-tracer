@@ -16,7 +16,7 @@ MyBank Smart Banking Infrastructure is a secure enterprise banking network simul
 | **Program** | Computer Science |
 | **University** | Quaid-e-Awam University of Engineering, Science and Technology, Nawabshah |
 | **Supervisor** | Ms. Sana Arain |
-| **Event** | International Networking Competition 2026 |
+| **Event** | CS department Networking Competition 2026 |
 
 ---
 
@@ -166,7 +166,7 @@ MyBank Smart Banking Infrastructure successfully demonstrates how Cisco technolo
 ## 📧 Contact
 
 **Sikandar**  
-Email: [your-email@email.com]  
+Email: [sikandarali@quest.edu.pk]  
 Roll No: 23BSCS44  
 University: QUEST Nawabshah
 
